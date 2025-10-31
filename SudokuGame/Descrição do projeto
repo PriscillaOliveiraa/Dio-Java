@@ -1,1 +1,31 @@
+🧩 SudokuGame
+Um projeto de jogo Sudoku implementado em Java, utilizando a programação orientada a objetos (POO) para simular 
+o tabuleiro e a lógica do jogo. Desenvolvido como parte da Formação Java Fundamentals - DIO.
 
+🚀 TecnologiasLinguagem: JavaInterface Gráfica (GUI): (Baseado no Stack Trace anterior, parece ter uma 
+UI customizada) JavaFX ou Swing/AWT (Favor confirmar e preencher)Estrutura do Projeto: Maven/Gradle.
+
+✨ Funcionalidades
+O projeto oferece uma implementação completa para jogar e validar o Sudoku:
+
+Tabuleiro (Board): Representação do tabuleiro 9x9 com gerenciamento de células individuais.
+Células (Space): Cada célula armazena seu valor atual, o valor esperado (solução) e se é um número fixo 
+(pré-definido no início do jogo).
+
+Lógica de Jogo:
+Inicialização do tabuleiro a partir de um mapa de configurações.
+Verificação de erros (números duplicados na linha, coluna ou bloco 3x3).
+Verificação do status do jogo (Em Andamento, Venceu ou Erro).
+Funcionalidade para reiniciar o jogo.
+
+Interface Gráfica (UI): (Baseado no Stack Trace, que menciona MainScreen) Apresenta o tabuleiro de forma 
+interativa para a entrada de números pelo usuário.
+
+🛠️ Estrutura do Código
+
+O projeto está organizado em pacotes distintos, seguindo a arquitetura MVC (Model-View-Controller) ou 
+Service-Model:br.com.dio.model: 
+Contém as classes de dados principais (Board, Space, GameStatusEnum).br.com.dio.service: 
+Contém a lógica de negócio (BoardService), responsável por manipular o estado do tabuleiro e aplicar as 
+regras do Sudoku.br.com.dio.ui: 
+Contém as classes da interface gráfica para exibir o jogo.
