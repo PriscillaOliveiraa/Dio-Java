@@ -1,0 +1,37 @@
+# 🚀 Desafio: Guia de Instrução `return` em Python
+Este projeto foi desenvolvido como parte de um desafio técnico para explorar as capacidades de síntese e organização de conhecimento da ferramenta 
+**NotebookLM (Google AI)**. O objetivo foi transformar conceitos de programação em um guia didático, estruturado e altamente funcional.
+
+## 📋 Sobre o Projeto
+O relatório contido neste repositório detalha o funcionamento da instrução `return` na linguagem Python. A abordagem foca na transição do nível 
+básico (scripts simples) para o nível profissional (código modular e reutilizável).
+
+### 🎯 Objetivos do Desafio
+* **Domínio de Ferramenta:** Validar o uso do **NotebookLM** como assistente de pesquisa e estruturação de dados.
+* **Clareza Técnica:** Explicar a diferença vital entre exibir dados (`print`) e retornar dados (`return`).
+* **Didática de Programação:** Utilizar analogias do cotidiano (como a rotina de ir à padaria) para facilitar o aprendizado de conceitos abstratos.
+
+## 🛠️ Conteúdo do Guia
+O relatório está dividido nos seguintes pilares:
+
+1. **Conceitos Fundamentais:** A função como uma rotina que entrega um produto.
+2. **Diferenciação Crítica:** Uma tabela comparativa entre `print()` e `return`.
+3. **Parâmetros:** Diferença entre Parâmetros Formais (na definição) e Reais (na chamada).
+4. **Aplicações Práticas:**
+* Cálculos matemáticos (Soma e Fatorial).
+* Predicados (Funções booleanas `True/False`).
+
+## 🤖 Tecnologia Utilizada
+
+Este projeto foi gerado e refinado através do **NotebookLM**.
+> "A utilização da IA permitiu a conexão entre notas de estudo (baseadas na metodologia do Prof. Guanabara) e a criação de um relatório 
+técnico coeso, demonstrando o poder da IA na curadoria de conteúdo educativo."
+
+## 💡 Melhores Práticas Destacadas
+O projeto conclui que o uso do `return` é essencial para:
+* **Modularização:** Separar a lógica do programa da interface visual.
+* **Reutilização:** Criar funções que servem a múltiplos propósitos.
+* **Flexibilidade:** Manter o controle dos dados no Programa Principal.
+
+## 👤 Autor
+Desenvolvido por Priscila Oliveira, com o auxílio da inteligência artificial do NotebookLM.
